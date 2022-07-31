@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio Multimedia</title>
+</head>
+<body>
+    <h1>Aprendiendo a utilizar imagenes</h1>
+    <img src="img/ERJC-Q17259385-medium_w640_h480_q75-ERJCQ17259385-original-1-1537316201.webp" alt="God of War" width="600" height="400">
+
+    <h1>Aprendiendo a utilizar vídeos</h1>
+    <h2>Thor Vs Kratos</h2>
+    <video controls muted autoplay loop>
+        <source src="/multimedia/img/videoplayback.mp4" type="video/mp4" autoplay>
+    </video>
+    <h1>Aprendiendo a utilizar audios</h1>
+    <audio controls autoplay loop>
+        <source src="/multimedia/img/1. God of War - God of War OST.mp3" type="audio/mp3">
+    </audio>
+</body>
+</html>
